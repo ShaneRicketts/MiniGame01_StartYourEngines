@@ -29,6 +29,14 @@ Scene 3 (Bonus Features 1)
 
 
 Stuff I added on my own (Not Part of the Unity Lesson)
+
+Start Menu Scene
+- Added a Standard Menu Scene with functioning menu to select between the three scenes
+- Added a Quit button to stop excecuting the game
+- added a quit minigame button to return back to the start menu and added this to each minigame
+
 Scene 1 & 3
 - added a check in the code to check if a switch key was set for the cameras in case there werent any set in the player controller script
 - added a script that makes objects destroy themselves if their position is less than -10 on the Y axis
+
+
