@@ -1,4 +1,4 @@
-add playable link here later - TODO
+[Check it out!](https://play.unity.com/mg/other/prototype01_build)
 
 This project was part of the Unity Learn Pathway for Junior Programmers and has a couple things going on in it, with multiple scenes:
 
