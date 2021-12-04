@@ -942,7 +942,7 @@ MonoBehaviour:
   hoodCamera: {fileID: 173078985}
   switchKey: 102
   inputID: 1
-  carNoise: {fileID: 8300000, guid: efbf03e46d492fd4da4e84144650b56f, type: 3}
+  carNoise: {fileID: 0}
 --- !u!82 &242466651
 AudioSource:
   m_ObjectHideFlags: 0
@@ -2305,7 +2305,7 @@ MonoBehaviour:
   hoodCamera: {fileID: 1677984665}
   switchKey: 303
   inputID: 2
-  carNoise: {fileID: 8300000, guid: efbf03e46d492fd4da4e84144650b56f, type: 3}
+  carNoise: {fileID: 0}
 --- !u!54 &681845413
 Rigidbody:
   m_ObjectHideFlags: 0
