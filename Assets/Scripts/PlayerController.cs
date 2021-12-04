@@ -25,6 +25,7 @@ public class PlayerController : MonoBehaviour
         //Rotates the Car based on horizontal input
         transform.Rotate(Vector3.up * turnSpeed * Time.deltaTime * horizontalInput);
 
+        //switch between cameras
         if (switchKey != KeyCode.None)
         {
             if (Input.GetKeyDown(switchKey))
