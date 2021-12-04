@@ -39,4 +39,7 @@ Scene 1 & 3
 - added a check in the code to check if a switch key was set for the cameras in case there werent any set in the player controller script
 - added a script that makes objects destroy themselves if their position is less than -10 on the Y axis
 
+All Scenes
+-Added Sound Effects
+
 
