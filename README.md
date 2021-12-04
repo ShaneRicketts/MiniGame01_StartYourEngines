@@ -40,6 +40,6 @@ Scene 1 & 3
 - added a script that makes objects destroy themselves if their position is less than -10 on the Y axis
 
 All Scenes
--Added Sound Effects
+- Added Sound Effects
 
 
