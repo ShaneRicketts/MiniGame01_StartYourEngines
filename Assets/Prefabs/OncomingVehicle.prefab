@@ -646,8 +646,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a72eab360932be24a884293b81354b3b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playsOnPlayerHit: 0
-  impactSound: {fileID: 0}
+  playsOnPlayerHit: 1
+  impactSound: {fileID: 8300000, guid: 9c099bd8776d9cd47b6e77063bad8401, type: 3}
   soundResetTime: 10
 --- !u!1 &6000932168198721676
 GameObject:
